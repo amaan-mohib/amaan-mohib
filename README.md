@@ -12,6 +12,8 @@ Feel free to roam around my repositories to get an idea of me.
 ### GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaan-mohib&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-mohib&show_icons=true&hide_border=true&theme=dark&layout=compact&langs_count=8"/>
+
+### Projects
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
