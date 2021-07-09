@@ -1,126 +1,42 @@
-- name: Golang
-  logo: go
-  url: https://golang.org/
-  color: "#7FD6EA"
-  projects:
-    - url: https://github.com/gleich/fgh
-    - url: https://github.com/gleich/gh_fsync
-    - url: https://github.com/gleich/nuke
-    - url: https://github.com/gleich/logoru
-    - url: https://github.com/gleich/statuser
-    - url: https://github.com/gleich/desktop
-    - url: https://github.com/gleich/new_release
-    - url: https://github.com/gleich/texsch
-    - url: https://github.com/gleich/contrihat
-    - url: https://github.com/gleich/clockhat
-    - url: https://github.com/gleich/cihat
-    - url: https://github.com/gleich/ctree
-    - url: https://github.com/gleich/lumber
-    - url: https://github.com/hackclub/awesome_hackclub_auto
-    - url: https://github.com/gleich/api
-    - url: https://github.com/gleich/github_scraper
-    - url: https://github.com/rootly-io/cli
-
 - name: Python
   logo: python
   url: https://www.python.org/
   color: "#3C78A9"
   projects:
-    - url: https://github.com/gleich/Contribution-Hat
-    - url: https://github.com/gleich/RPi-Status
-    - url: https://github.com/gleich/Doc-Dockerfiles
-    - url: https://github.com/gleich/Quantum-Flip
-    - url: https://github.com/gleich/Photo-Sort
-    - url: https://github.com/Team-501-The-PowerKnights/Vision2020
+    - url: https://github.com/amaan-mohib/pdf-maker
+    - url: https://github.com/amaan-mohib/mover
+    - url: https://github.com/amaan-mohib/Movie-Icons
 
-- name: Dart
-  logo: dart
-  url: https://dart.dev/
-  color: "#52C0F2"
+- name: JavaScript
+  logo: javascript
+  url: https://www.javascript.com/
+  color: "#F7DF1E"
   projects:
-    - url: https://github.com/gleich/beta-website
-    - url: https://github.com/fluttercommunity/import_sorter
-    - url: https://github.com/gleich/local_google_fonts
+    - url: https://github.com/amaan-mohib/storieshub
+    - url: https://github.com/amaan-mohib/d-financely
+    - url: https://github.com/amaan-mohib/d-financely-api
+    - url: https://github.com/amaan-mohib/deltasudoku
+    - url: https://github.com/amaan-mohib/stacker
+    - url: https://github.com/amaan-mohib/Quinch-Web
 
-- name: Flutter
-  logo: flutter
-  url: https://flutter.dev/
-  color: "#52C0F2"
+- name: Java
+  logo: java
+  url: https://www.java.com/
+  color: "#007396"
   projects:
-    - url: https://github.com/gleich/beta-website
-    - url: https://github.com/banurapp/geist_flutter
-    - url: https://github.com/gleich/File-Sort
+    - url: https://github.com/amaan-mohib/Quinch
+    - url: https://github.com/amaan-mohib/Downloader
 
-- name: Rust
-  logo: rust
-  url: https://www.rust-lang.org/
-  color: "#DEA584"
+- name: React Native
+  logo: react
+  url: https://reactnative.dev/
+  color: "#61DAFB"
   projects:
-    - url: https://github.com/gleich/profile_stack
-    - url: https://github.com/gleich/auto-shorty
-    - url: https://github.com/gleich/rust_template
-    - url: https://github.com/gleich/full-tilt-sort
-    - url: https://github.com/gleich/resin
-    - url: https://github.com/gleich/daily-poll
-    - url: https://github.com/gleich/clueprog
-      wip: true
-    - url: https://github.com/gleich/wakavis
-      wip: true
-
-- name: JS/TS
-  logo: typescript
-  url: https://www.typescriptlang.org/
-  color: "#3878C6"
-  projects:
-    - url: https://github.com/gleich/website
-    - url: https://github.com/gleich/texsch-code
-    - url: https://github.com/gleich/emoji-clock
-      wip: true
-    - url: https://github.com/gleich/React-Translator
-    - url: https://github.com/gleich/Extreme-Fib-Calc
-
-- name: GraphQL
-  logo: graphql
-  url: https://graphql.org
+    - url: https://github.com/amaan-mohib/MovieOps
+    
+- name: Flask
+  logo: flask
+  url: https://flask.palletsprojects.com/
   color: "#000000"
   projects:
-    - url: https://github.com/gleich/api
-    - url: https://github.com/gleich/fgh
-    - url: https://github.com/gleich/contrihat
-    - url: https://github.com/gleich/cihat
-    - url: https://github.com/gleich/github_scraper
-
-- name: PostgreSQL
-  logo: postgresql
-  url: https://postgres.org
-  color: "#336791"
-  projects:
-    - url: https://github.com/gleich/api
-    - url: https://github.com/gleich/github_scraper
-
-- name: Docker
-  logo: docker
-  url: https://www.docker.com/
-  color: "#4FA1EF"
-  projects:
-    - url: https://github.com/gleich/api
-    - url: https://github.com/gleich/gh_fsync
-    - url: https://github.com/gleich/Dockerfiles
-    - url: https://github.com/gleich/profile_stack
-    - url: https://github.com/gleich/Control-Sense-Hat
-
-- name: LaTeX
-  logo: latex
-  url: https://www.latex-project.org/
-  color: "#3D6117"
-  projects:
-    - url: https://github.com/gleich/explain-math
-
-- name: Vim
-  logo: vim
-  url: https://www.vim.org/
-  color: "#019733"
-  projects:
-    - url: https://github.com/gleich/dots
-    - url: https://github.com/blackbirdtheme/vim
-    - url: https://github.com/gleich/monovibrant
+    - url: https://github.com/amaan-mohib/portfolioid
