@@ -9,6 +9,7 @@
 
 - name: JavaScript
   logo: javascript
+  logo_color: "#000000"
   url: https://www.javascript.com/
   color: "#F7DF1E"
   projects:
@@ -27,8 +28,9 @@
     - url: https://github.com/amaan-mohib/Quinch
     - url: https://github.com/amaan-mohib/Downloader
 
-- name: React Native
+- name: React%20Native
   logo: react
+  logo_color: "#000000"
   url: https://reactnative.dev/
   color: "#61DAFB"
   projects:
