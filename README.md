@@ -5,7 +5,16 @@
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/amaan.mohib/) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=amaan-mohib.amaan-mohib)
 
-Whoa! Look who's here
+👋 Hey there! I'm Amaan Mohib, a software developer with a Bachelor's degree in Information Science and Engineering. Currently, I'm a Software Development Engineer at Intervue, where I specialize in full-stack development and thrive in a dynamic environment.
+
+💼 At Intervue, I contribute to developing SEO-optimized templates, implementing image optimization techniques, and crafting secure registration systems. I've worked on high-impact projects, including developing APIs for major clients and integrating third-party tools like Calendly.
+
+🚀 My tech stack includes React, Node.js, Express, MongoDB, Svelte, and React Native. I'm proficient in SQL and NoSQL databases and have experience with AWS services such as SQS, S3, and Lambda.
+
+🔍 Always seeking opportunities for growth, whether through tackling new projects, participating in hackathons, or staying updated with the latest tech trends. Let's connect and collaborate!
+
+
+
 <!--I am a full-stack web developer. I love programming and designing.    
 Feel free to roam around my repositories to get an idea of me. -->
 
