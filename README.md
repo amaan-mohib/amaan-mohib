@@ -5,9 +5,9 @@
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/amaan.mohib/) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=amaan-mohib.amaan-mohib)
 
-👋 A software developer with a Bachelor's degree in Information Science and Engineering. Currently, I'm a Software Engineer at Informatica, where I specialize in full-stack development and thrive in a dynamic environment.
+👋 A software developer with a Bachelor's degree in Information Science and Engineering. Currently, I'm a Software Engineer at Informatica and previously at Intervue, where I specialize in full-stack development and thrive in a dynamic environment.
 
-💼 At Intervue, I contribute to developing SEO-optimized templates, implementing image optimization techniques, and crafting secure registration systems. I've worked on high-impact projects, including developing APIs for major clients and integrating third-party tools like Calendly.
+💼 At Intervue, I contributed to developing SEO-optimized templates, implementing image optimization techniques, and crafting secure registration systems. I've worked on high-impact projects, including developing APIs for major clients and integrating third-party tools like Calendly.
 
 🚀 My tech stack includes React, Node.js, Express, MongoDB, Svelte, and React Native. I'm proficient in SQL and NoSQL databases and have experience with AWS services such as SQS, S3, and Lambda.
 
